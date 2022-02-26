@@ -1,0 +1,35 @@
+body{
+    background-color: cyan;
+}
+.header{
+    background-color: darkblue;
+    margin-top: -20px;
+    height: 130px;
+    color: white;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+.test-images{
+    background-color: blue;
+    color: white;
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+span{
+    color: cyan;
+}
+label{
+    font-size: 23px;
+}
+
+#result-div{
+    background-color: magenta;
+    color: darkblue;
+    margin: 10px;
+}
